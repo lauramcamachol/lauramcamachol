@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @lauramcamachol, I am an IT Recruiter working at Lean Tech.
+- 👋 Hi, I’m @lauramcamachol, I am an IT Recruiter working at Lean Tech, Colombia. 
 - 👀 I’m interested in sourcing and recruiting amazing tech people. 
 - 🌱 At Lean Tech we specialize in providing highly productive and efficient Software Development Solutions for US-based companies.
-- 📫 Reach me by...https://www.linkedin.com/in/lauracamachol/
+- 📫 If you wanna know more about Lean Tech and our opportunities. Reach me by: https://www.linkedin.com/in/lauracamachol/
 
 <!---
 lauramcamachol/lauramcamachol is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
